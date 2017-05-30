@@ -1,0 +1,32 @@
+body {
+  max-width: 1000px;
+  margin: auto;
+  background-color: #129fea;
+  padding: 10px;
+}
+
+#current-date {
+  color: white;
+  min-height: 30px;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 20px;
+  max-width: 500px;
+  margin: 10px auto;
+  text-align: center;
+}
+
+.card {
+  background-color: white;
+  border-radius: 10px;
+  min-height: 30px;
+  font-size: 1.3em;
+  font-weight: bold;
+  padding: 20px;
+  max-width: 500px;
+  margin: 10px auto;
+}
+
+.card > div {
+  text-align: center;
+}
